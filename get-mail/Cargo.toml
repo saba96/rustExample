@@ -1,0 +1,11 @@
+[package]
+name = "get-mail"
+version = "0.1.0"
+authors = ["Saba Ahmadi <saba.ahmadi96@gmail.com>"]
+
+[dependencies]
+nickel="*"
+bson="*"
+mongodb="*"
+serde_json="*"
+

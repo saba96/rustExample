@@ -1,0 +1,1 @@
+{"rustc":15235436946139347034,"features":"[]","target":6398444503085515901,"profile":731176819336294830,"deps":[["bson v0.9.0",14144929973919160523],["mongodb v0.3.3",11183512069999973229]],"local":{"MtimeBased":[[1504060816,0],"/Users/saba/rust/mailbox/step5/target/debug/.fingerprint/mailbox-dbb7e70a7167fd62/dep-bin-mailbox-dbb7e70a7167fd62"]},"rustflags":[]}

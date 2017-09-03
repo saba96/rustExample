@@ -1,0 +1,8 @@
+[package]
+name = "mailbox"
+version = "0.1.4"
+authors = ["Saba Ahmadi <saba.ahmadi96@gmail.com>"]
+
+[dependencies]
+mongodb = "*"
+bson = "*"
