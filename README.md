@@ -8,11 +8,11 @@ gcc tcpclient.c
 
 then open the get-mail folder and build and run with these commands:
 cargo build
-cargi clean
+cargo clean
 
 then open the mail-listener folder and build and run with these commands:
 cargo build
-cargi clean
+cargo clean
 
 
 tcpclient.c make a tcp connection to our mail-listener server 
